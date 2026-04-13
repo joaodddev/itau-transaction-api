@@ -1,3 +1,12 @@
+# Logs
+*.log
+
+# OS
+.DS_Store
+
+# Lombok
+*.class
+
 HELP.md
 target/
 .mvn/wrapper/maven-wrapper.jar
